@@ -5,7 +5,7 @@ Start Ledger Live Desktop application with accounts for the supported coin. Oper
 
 ## Accounts setup and sync
 #### Launch test
-./Ledger\ Live\ testing/ledgerLiveDesktop_testSync.sh
+./scripts/testSync.sh
 
 #### Test description
 Clean Ledger Live Application settings directory.  
