@@ -3,7 +3,7 @@ Automated tests for Ledger Live Desktop application.
 Start Ledger Live Desktop application with accounts for the supported coin. Operations history removed from db. Then sync to retrieve account balance and transactions history.
 
 
-## Ledger Live testing
+## Accounts setup and sync
 #### Launch test
 ./Ledger\ Live\ testing/ledgerLiveDesktop_testSync.sh
 
