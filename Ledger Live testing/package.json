@@ -1,0 +1,9 @@
+{
+	"name": "Test_LedgerLive_Sync",
+	"version": "0.0.1",
+	"description": "Start app, sync, and compare sync results",
+	"author": "Arnaud",
+	"dependencies": {
+		"json-diff": "^0.5.2"
+	}
+}
