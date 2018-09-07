@@ -4,6 +4,7 @@
 	"description": "Start app, sync, and compare sync results",
 	"author": "Arnaud",
 	"dependencies": {
-		"json-diff": "^0.5.2"
+		"json-diff": "^0.5.2",
+		"require": "^2.4.20"
 	}
 }
