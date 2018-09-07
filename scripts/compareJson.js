@@ -1,5 +1,5 @@
-const expected = require('../src/expected_app.json');
-const actual = require('../src/synced_app.json');
+const expected = require('../src/expected_app.json')
+const actual = require('../src/synced_app.json')
 
 let compareJSON = function(expected, actual) {
   var ret = {};
