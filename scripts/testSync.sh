@@ -36,5 +36,5 @@ echo "sync finished"
 # Copy app.json file to test folder
 cp "$settingsPath"/app.json ./src/synced_app.json
 
+# compare new app.json with expected_app.json
 ./scripts/compareJson.js
-# json-diff expected_app.json synced_app.json
